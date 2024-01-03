@@ -36,8 +36,8 @@
 ![image](https://github.com/ADITHYA23000033/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/148514544/3847126f-fe60-438e-b0c7-83c3b980d64a)
 
 
-### Name: ADITHYA V
-### Register Number: 23000033
+### Name: DEVESH S
+### Register Number: 23004345
 
 ## Result: 
 ### Thus the simulation on construction of polar 3D printer is completed & movement of axis along X, Y, & Z has been studied.
